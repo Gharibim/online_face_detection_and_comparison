@@ -1,6 +1,6 @@
 # online_face_detection_and_comparison
 
-In this project, I am using JavaScript to start a video then detect faces and draw a square around the face.[Click here to see the same project using Opencv in Python.](https://github.com/Gharibim/StreamingVideo_Face_Detection_and_Comparission)
+In this project, I am using JavaScript to start a video then detect faces and draw a square around the face.[Click here to see the same project using Opencv in Python.](https://github.com/Gharibim/online_face_detection_and_comparison_python)
 
 <img src="monitor-0.png" width=500>
 
