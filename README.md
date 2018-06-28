@@ -10,3 +10,7 @@ The only recognized face is my face is (image: me.jpg). You can simply add your 
 
 **References:** </br>
 [tracking.js](https://github.com/eduardolundgren/tracking.js)</br>
+[face recognition](https://pypi.org/project/face_recognition/)</br>
+[Flask](http://flask.pocoo.org/)
+
+
